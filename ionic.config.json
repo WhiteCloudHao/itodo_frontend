@@ -1,0 +1,7 @@
+{
+  "name": "itodo_fe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
