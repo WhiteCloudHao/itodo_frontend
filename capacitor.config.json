@@ -1,0 +1,9 @@
+
+{
+  "appId": "com.itodo.app",
+  "appName": "itodo",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

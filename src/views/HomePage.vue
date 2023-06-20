@@ -1,8 +1,12 @@
 <template>
+
   <ion-page>
     <ion-header :translucent="true">
       <ion-toolbar>
         <ion-title>Blank</ion-title>
+        <h1 class="text-red-500">
+         Hello world thinhpd 
+        </h1>
       </ion-toolbar>
     </ion-header>
 
@@ -21,8 +25,8 @@
   </ion-page>
 </template>
 
-<script setup lang="ts">
-import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/vue';
+<script setup>
+// import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/vue'; 
 </script>
 
 <style scoped>
